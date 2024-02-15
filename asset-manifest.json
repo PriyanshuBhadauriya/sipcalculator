@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sipcalculator/static/css/main.0503d752.css",
+    "main.js": "/sipcalculator/static/js/main.e44fb3d1.js",
+    "static/js/592.0476e177.chunk.js": "/sipcalculator/static/js/592.0476e177.chunk.js",
+    "index.html": "/sipcalculator/index.html",
+    "main.0503d752.css.map": "/sipcalculator/static/css/main.0503d752.css.map",
+    "main.e44fb3d1.js.map": "/sipcalculator/static/js/main.e44fb3d1.js.map",
+    "592.0476e177.chunk.js.map": "/sipcalculator/static/js/592.0476e177.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0503d752.css",
+    "static/js/main.e44fb3d1.js"
+  ]
+}
