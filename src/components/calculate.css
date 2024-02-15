@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(60, 131, 131);
+}
+.calculator>form{
+    display: grid;
+    padding: 5% 5%;
+    margin: 2% 2%;
+    border: 1px solid black;
+    width: 50%;
+    background-color: azure;
+}
+.calculator>form>input{
+    padding: 2%;
+    margin: 1px 5px;
+    width: 40%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+img{
+    float:right;
+    width: 35%;
+    height: 580px;
+    margin: 14px 10px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgba(11, 225, 225, 0.692);
+}
+.total{
+    display: grid;
+    text-align: center;
+}
+.total>h2{
+    color: rgb(42, 98, 79);
+}
+button{
+    padding: 1% 1%;
+    margin: 10px 200px;
+    width: 10%;
+    border-radius: 20px;
+}
+label{
+    margin: 1px 10px;
+    font-size: 20px;
+}
+
+
+
